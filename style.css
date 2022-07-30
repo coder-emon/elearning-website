@@ -15,3 +15,15 @@
 .bg-custom{
     background-color: #F4FAFD;
 }
+.bg-footer{
+    background-color: #161616;
+}
+.social-icons i{
+display: block;
+width: 40px;
+height: 40px;
+line-height: 40px;
+background-color: #242424;
+border-radius: 50%;
+
+}
